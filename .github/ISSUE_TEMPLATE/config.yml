@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Reportar una vulnerabilidad
+    url: https://github.com/alberto2005-coder/.github/blob/main/SECURITY.md
+    about: No publiques problemas de seguridad en un issue público. Sigue la política de seguridad.
+  - name: Guía de contribución
+    url: https://github.com/alberto2005-coder/.github/blob/main/CONTRIBUTING.md
+    about: Flujo de trabajo, ramas, commits y pruebas antes de enviar un pull request.
+  - name: Soporte y preguntas
+    url: https://github.com/alberto2005-coder/.github/blob/main/SUPPORT.md
+    about: Dónde preguntar dudas de uso, instalación o configuración.

@@ -1,0 +1,67 @@
+name: Propuesta de mejora
+description: Idea para una nueva función o una mejora de lo existente
+title: "[Feature] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por proponer una mejora. Describe el problema antes que la solución: ayuda a valorar alternativas.
+
+        Para cambios grandes, comenta la idea en el issue antes de escribir código.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema o necesidad
+      description: Qué falta, qué resulta incómodo o qué caso de uso no está cubierto.
+      placeholder: Cuando tengo muchas tareas, no puedo filtrarlas por prioridad y pierdo tiempo buscando.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Solución propuesta
+      description: Cómo imaginas la funcionalidad.
+      placeholder: Un desplegable de filtro por prioridad encima de la lista de tareas.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas consideradas
+      description: Otras opciones que hayas valorado y por qué las descartas.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Alcance
+      description: Cómo de grande te parece el cambio.
+      options:
+        - Cambio pequeño (interfaz, texto, un ajuste)
+        - Cambio medio (una función nueva acotada)
+        - Cambio grande (varias partes o rediseño)
+        - No lo sé
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto adicional
+      description: Capturas, bocetos, enlaces o ejemplos de otras herramientas.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Comprobaciones
+      options:
+        - label: He revisado que no exista ya una propuesta igual en los issues.
+          required: true
+        - label: La propuesta encaja con el objetivo del proyecto.
+          required: false
