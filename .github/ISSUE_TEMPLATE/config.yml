@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Reportar una vulnerabilidad
+  - name: Report a vulnerability / Reportar una vulnerabilidad
     url: https://github.com/alberto2005-coder/.github/blob/main/SECURITY.md
-    about: No publiques problemas de seguridad en un issue público. Sigue la política de seguridad.
-  - name: Guía de contribución
+    about: Do not report security issues publicly. Follow the security policy. / No publiques problemas de seguridad en un issue público. Sigue la política de seguridad.
+  - name: Contributing guide / Guía de contribución
     url: https://github.com/alberto2005-coder/.github/blob/main/CONTRIBUTING.md
-    about: Flujo de trabajo, ramas, commits y pruebas antes de enviar un pull request.
-  - name: Soporte y preguntas
+    about: Workflow, branches, commits and tests before sending a pull request. / Flujo de trabajo, ramas, commits y pruebas antes de enviar un pull request.
+  - name: Support and questions / Soporte y preguntas
     url: https://github.com/alberto2005-coder/.github/blob/main/SUPPORT.md
-    about: Dónde preguntar dudas de uso, instalación o configuración.
+    about: Where to ask about usage, installation or configuration. / Dónde preguntar dudas de uso, instalación o configuración.

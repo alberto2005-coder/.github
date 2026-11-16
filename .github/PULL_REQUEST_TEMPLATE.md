@@ -1,45 +1,45 @@
-## Resumen
+## Summary / Resumen
 
-<!-- Qué cambia este pull request y por qué. Una o dos frases. -->
+<!-- What does this PR change and why? One or two sentences. / ¿Qué cambia este PR y por qué? Una o dos frases. -->
 
-## Tipo de cambio
+## Type of change / Tipo de cambio
 
-- [ ] Corrección de error
-- [ ] Nueva funcionalidad
-- [ ] Documentación
-- [ ] Refactorización sin cambio de comportamiento
-- [ ] Rendimiento
-- [ ] Pruebas
-- [ ] Otro (indícalo abajo)
+- [ ] Bug fix / Corrección de error
+- [ ] New feature / Nueva funcionalidad
+- [ ] Documentation / Documentación
+- [ ] Refactor (no behaviour change) / Refactorización sin cambio de comportamiento
+- [ ] Performance / Rendimiento
+- [ ] Tests / Pruebas
+- [ ] Other (describe below) / Otro (indícalo abajo)
 
-## Cambios
+## Changes / Cambios
 
-<!-- Lista de los cambios principales. -->
+<!-- Bullet points. / Lista de los cambios principales. -->
 
 -
 -
 
-## Cómo se ha probado
+## How it was tested / Cómo se ha probado
 
-<!-- Comandos, pasos manuales, capturas o enlaces a la ejecución de CI. -->
+<!-- Commands, manual steps, screenshots or CI run links. / Comandos, pasos manuales, capturas o enlaces a CI. -->
 
-- [ ] El proyecto arranca o compila correctamente.
-- [ ] Las pruebas existentes pasan.
-- [ ] He añadido o actualizado pruebas para el cambio (si aplica).
-- [ ] He comprobado el cambio manualmente en el escenario descrito.
+- [ ] The project starts or builds correctly. / El proyecto arranca o compila correctamente.
+- [ ] Existing tests pass. / Las pruebas existentes pasan.
+- [ ] I added or updated tests for this change (if applicable). / He añadido o actualizado pruebas (si aplica).
+- [ ] I verified the change manually in the described scenario. / He comprobado el cambio manualmente.
 
-## Issue relacionado
+## Related issue / Issue relacionado
 
-<!-- Por ejemplo: Closes #12 -->
+<!-- e.g. Closes #12 -->
 
 ## Checklist
 
-- [ ] El cambio está centrado en un único objetivo.
-- [ ] He respetado el estilo y la estructura del código existente.
-- [ ] He actualizado la documentación afectada (README bilingüe incluido, si aplica).
-- [ ] No he incluido credenciales, datos personales ni archivos generados (`node_modules`, `.venv`, `dist`, binarios no previstos).
-- [ ] He leído [`CONTRIBUTING.md`](../CONTRIBUTING.md) y acepto la licencia del repositorio.
+- [ ] The change stays focused on a single goal. / El cambio está centrado en un único objetivo.
+- [ ] I followed the existing code style and structure. / He respetado el estilo y la estructura existentes.
+- [ ] I updated the affected documentation (bilingual README included, if applicable). / He actualizado la documentación afectada.
+- [ ] I did not include credentials, personal data or generated files (`node_modules`, `.venv`, `dist`, unexpected binaries). / No he incluido credenciales, datos personales ni archivos generados.
+- [ ] I read [`CONTRIBUTING.md`](../CONTRIBUTING.md) and accept the repository license. / He leído [`CONTRIBUTING.md`](../CONTRIBUTING.md) y acepto la licencia del repositorio.
 
-## Notas para la revisión
+## Review notes / Notas para la revisión
 
-<!-- Cualquier decisión de diseño, limitación conocida o punto donde quieras una opinión concreta. -->
+<!-- Design decisions, known limitations or points where you want a specific opinion. / Decisiones de diseño, limitaciones conocidas o dudas concretas. -->
