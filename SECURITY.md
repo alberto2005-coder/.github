@@ -14,10 +14,7 @@ Security fixes are applied to the `main` branch and to the latest published rele
 
 **Do not open a public issue** for security vulnerabilities.
 
-Use one of these private channels:
-
-1. **GitHub Security Advisories**: in the affected repository, **Security** tab → **Report a vulnerability**. This is the preferred channel because it lets us coordinate the fix and the disclosure.
-2. **Email**: [albertoortixsanchez@gmail.com](mailto:albertoortixsanchez@gmail.com) with the subject `[SECURITY] <repository>`, if you cannot use the previous one.
+Report them through **GitHub Security Advisories**: in the affected repository, **Security** tab → **Report a vulnerability**. The whole conversation stays inside GitHub, which lets us coordinate the fix and the disclosure privately. No email is needed or offered.
 
 Please include, as far as possible:
 
@@ -65,10 +62,7 @@ Se aplican correcciones de seguridad a la rama `main` y a la última release pub
 
 **No abras un issue público** para vulnerabilidades de seguridad.
 
-Usa uno de estos canales privados:
-
-1. **GitHub Security Advisories**: en el repositorio afectado, pestaña **Security** → **Report a vulnerability**. Es el canal preferido porque permite coordinar la corrección y la divulgación.
-2. **Email**: [albertoortixsanchez@gmail.com](mailto:albertoortixsanchez@gmail.com) con el asunto `[SECURITY] <repositorio>`, si no puedes usar el anterior.
+Repórtalas con **GitHub Security Advisories**: en el repositorio afectado, pestaña **Security** → **Report a vulnerability**. Toda la conversación se queda dentro de GitHub, lo que permite coordinar la corrección y la divulgación de forma privada. No hace falta correo y no se ofrece ese canal.
 
 Incluye, en la medida de lo posible:
 

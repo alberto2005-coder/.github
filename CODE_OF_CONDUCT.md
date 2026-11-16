@@ -42,9 +42,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported to the project maintainer at:
-
-**[albertoortixsanchez@gmail.com](mailto:albertoortixsanchez@gmail.com)**
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported through GitHub's [report abuse form](https://github.com/contact/report-abuse), selecting the affected repository. Everything stays inside GitHub.
 
 All complaints will be reviewed and investigated promptly and fairly. The project maintainer is obligated to respect the privacy and security of the reporter of any incident.
 
@@ -105,9 +103,7 @@ Este código de conducta se aplica en todos los espacios del proyecto y también
 
 ### Aplicación
 
-Los casos de abuso, acoso o comportamiento inaceptable se pueden reportar a quien mantiene el proyecto en:
-
-**[albertoortixsanchez@gmail.com](mailto:albertoortixsanchez@gmail.com)**
+Los casos de abuso, acoso o comportamiento inaceptable se pueden reportar con el [formulario de reporte de abuso de GitHub](https://github.com/contact/report-abuse), indicando el repositorio afectado. Todo se gestiona dentro de GitHub.
 
 Todos los reportes se revisarán y se investigarán con rapidez y equidad. Quien mantiene el proyecto está obligado a respetar la privacidad y la seguridad de la persona que reporta cualquier incidente.
 

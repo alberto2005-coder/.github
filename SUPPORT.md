@@ -22,7 +22,7 @@ Need help with one of these projects? Start here.
 | Improvement idea or new feature | Open an issue with the **Feature request** template |
 | Usage, installation or configuration question | Open an issue in the affected repository explaining the context |
 | Security vulnerability | **Do not use public issues**: follow [`SECURITY.md`](SECURITY.md) |
-| Private question that does not fit an issue | [albertoortixsanchez@gmail.com](mailto:albertoortixsanchez@gmail.com) |
+| Anything else | Open an issue in the affected repository and describe the context |
 
 ### What to include
 
@@ -64,7 +64,7 @@ These are personal projects maintained in spare time. There is no service level 
 | Propuesta de mejora o nueva función | Abre un issue con la plantilla **Feature request** |
 | Duda de uso, instalación o configuración | Abre un issue en el repositorio afectado explicando el contexto |
 | Vulnerabilidad de seguridad | **No uses issues públicos**: sigue [`SECURITY.md`](SECURITY.md) |
-| Consulta privada o que no encaja en un issue | [albertoortixsanchez@gmail.com](mailto:albertoortixsanchez@gmail.com) |
+| Cualquier otra consulta | Abre un issue en el repositorio afectado explicando el contexto |
 
 ### Qué incluir en tu mensaje
 
